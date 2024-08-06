@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import java.util.Random;
 
-import static jdk.internal.org.objectweb.asm.commons.GeneratorAdapter.OR;
+
 
 public class Aula03EstruturasCondicionais04 {
     public static void main(String[] args) {
